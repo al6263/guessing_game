@@ -1,2 +1,2 @@
-# guesing_game
+# guessing_game
 a little guessing game made in rust ( needs some fixes )
