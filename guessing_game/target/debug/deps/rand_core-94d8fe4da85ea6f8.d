@@ -1,0 +1,12 @@
+/home/alberto/Scrivania/Documenti/Progetti/Rust/guessing_game/target/debug/deps/rand_core-94d8fe4da85ea6f8.rmeta: /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/alberto/Scrivania/Documenti/Progetti/Rust/guessing_game/target/debug/deps/librand_core-94d8fe4da85ea6f8.rlib: /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/alberto/Scrivania/Documenti/Progetti/Rust/guessing_game/target/debug/deps/rand_core-94d8fe4da85ea6f8.d: /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs:
+/home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs:
+/home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs:
+/home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs:
+/home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs:
+/home/alberto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs:
